@@ -1,0 +1,54 @@
+.container {
+    width: 1200px;    
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.qwe {
+display: flex;
+}
+
+.header-resume {
+    padding-top: 5px;
+    font-family: "Raleway";
+    font-weight: 600;
+    color: dodgerblue;
+   
+}
+
+.header-familia {
+    padding-top: 50px;
+    font-family: "raleway";
+}
+.header-ul{
+    display: flex;
+    list-style: none;
+    font-family: "Raleway";
+}
+.kontakti{
+    padding-right: 50px;
+}
+.maim-img{
+    width: 250px;
+    height: 250px;
+    margin-left: 450px;
+    
+}
+.main-ul{
+    display: flex;
+    list-style: none;
+    font-family: "raleway";
+    font-weight: 500;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+.ul-li{
+    margin-right: 50px;
+}
+.ul{
+font-family: "raleway";
+display: block;
+list-style: none;
+font-style: normal;
+font-weight: 400;
+}
